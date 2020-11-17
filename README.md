@@ -19,7 +19,7 @@ A [VL53L0X carrier](https://www.pololu.com/product/2490) can be purchased from P
 
     STM32   VL53L0X board
     -------   -------------
-         5V - VIN
+     3.3/5V - VIN
         GND - GND
         SDA - SDA
         SCL - SCL
